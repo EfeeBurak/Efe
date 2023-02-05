@@ -1,4 +1,4 @@
-<h1 align="center">Selam, Ben Efe</h1>
+<h1 align="center">Hi, I'm Efe</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efeeburak&label=Profile%20views&color=0e75b6&style=flat" alt="efeeburak" /> </p>
